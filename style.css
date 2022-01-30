@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.again{
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.againBtn{
+
+	width: 10rem;
+	height: 4rem;
+	cursor: pointer;
+	border-radius: 10px;
+	background-color: cadetblue;
+
+}
+
+
+
+
